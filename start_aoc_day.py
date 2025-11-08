@@ -1,3 +1,6 @@
+# Inspired by 0xdf's genday.sh script
+# https://gitlab.com/0xdf/aoc2024/
+
 import sys
 import os
 import requests
